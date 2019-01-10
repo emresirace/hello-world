@@ -1,2 +1,7 @@
 # hello-world
-First one
+
+Hi everyone
+
+I am learning python.
+
+
